@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="multiverse-banner.png" alt="ASB-10 Multiverse" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:07111F,45:102B45,100:00D9FF&fontColor=EAF7FF&fontSize=34&fontAlignY=38&desc=AI%20%26%20ML%20ENGINEER%20IN%20THE%20MAKING&descAlignY=60&descSize=14&text=AKSHAY%20S%20BHARADWAJ" width="100%" alt="Akshay S Bharadwaj — ASB-10 developer banner" />
 
 # 🌌 EARTH-10ASB
 ### AI & ML ENGINEERING • MULTIVERSE BUILDER • VARIANT IN PROGRESS
@@ -18,8 +18,7 @@
 ## 🌀 THE ORIGIN FILE
 
 > **VARIANT:** ASB-10  
-> **IDENTITY:** Akshay S. Bharadwaj  
-> **BASE REALM:** Mysuru, India  
+> **IDENTITY:** Akshay S Bharadwaj   
 > **MISSION:** Build useful technology, one experiment at a time.
 
 AI & ML engineering student exploring intelligent systems, practical software, and interactive web experiences. This profile is my multiverse workshop: every repository is another experiment, every bug is another boss battle, and every shipped feature unlocks a new level. ⚡
