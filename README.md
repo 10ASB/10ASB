@@ -1,39 +1,51 @@
 <div align="center">
 
-# Hey, I'm Akshay 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:07111F,45:102B45,100:00D9FF&fontColor=EAF7FF&fontSize=34&fontAlignY=38&desc=AI%20%26%20ML%20ENGINEER%20IN%20THE%20MAKING&descAlignY=60&descSize=14&text=AKSHAY%20S%20BHARADWAJ" width="100%" alt="Akshay S Bharadwaj — ASB-10 developer banner" />
 
-### AI & Machine Learning Engineering Student · Developer · Lifelong Learner
+### `PROTOCOL ASB-10` · AI & ML · PYTHON · WEB DEVELOPMENT
 
-I enjoy turning ideas into useful projects — from Python tools and AI experiments to interactive web applications.
+**Building intelligent systems. Solving real-world problems.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-10ASB-181717?style=for-the-badge&logo=github)](https://github.com/10ASB)
+[![GitHub](https://img.shields.io/badge/GITHUB-10ASB-101A2B?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/10ASB)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-OPEN-101A2B?style=for-the-badge&logo=googlechrome&logoColor=00D9FF)](https://expressive-case-creator.lovable.app)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `01 / MISSION DOSSIER`
+
+I'm an **AI & Machine Learning engineering student** interested in building practical software, exploring computer vision, and turning ideas into useful applications.
+
+- 🤖 Exploring AI, machine learning, and computer vision
+- 🌐 Building interactive web tools and deployed applications
+- 🧠 Strengthening programming fundamentals and problem-solving
+- 📍 Mysuru, India
+
+## `02 / FIELD DEPLOYMENTS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Chatty AI
-A desktop chatbot with conversational commands, jokes, fun facts, date/time utilities and weather support.
+### 🤖 Python AI Chatbot
 
-**Built with:** Python · Tkinter
+A desktop chatbot with conversational commands and utilities.
 
-[View repository →](https://github.com/10ASB/AI-CHAT-BOT)
+**Stack:** Python · Tkinter
+
+[↗ View source](https://github.com/10ASB/AI-CHAT-BOT)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Network Delay Calculator
-An interactive tool for understanding transmission, propagation and processing delays across a network path.
 
-**Focus:** Networking · Interactive web development
+An interactive calculator for transmission, propagation, and processing delays.
 
-[Try the live demo →](https://delayclac.netlify.app/) · [Repository →](https://github.com/10ASB/delay-calculator)
+**Focus:** Networking · Web development
+
+[↗ Live demo](https://delayclac.netlify.app/) · [Source](https://github.com/10ASB/delay-calculator)
 
 </td>
 </tr>
@@ -41,56 +53,57 @@ An interactive tool for understanding transmission, propagation and processing d
 <td width="50%" valign="top">
 
 ### 💻 C Programming
+
 A collection of C programming exercises and practice programs.
 
-[View repository →](https://github.com/10ASB/C-lang)
+[↗ View source](https://github.com/10ASB/C-lang)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧩 Basic C Programs
-Beginner-friendly examples for practising core programming concepts in C.
 
-[View repository →](https://github.com/10ASB/Basic-C-lang)
+Beginner-friendly examples for core C programming concepts.
+
+[↗ View source](https://github.com/10ASB/Basic-C-lang)
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Technologies & Interests
+> Explore the [portfolio website](https://expressive-case-creator.lovable.app) for project case studies and more about my work.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-7655D9?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-168A72?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-- 🤖 Exploring AI and machine learning through practical projects
-- 🧠 Strengthening programming and problem-solving fundamentals
-- 🌐 Building useful tools and learning how to deploy them
-- 📚 Improving project documentation, code quality and testing
-
-## 📊 GitHub at a Glance
+## `03 / TECH SPECS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=10ASB&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10ASB&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=10ASB&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+![Python](https://img.shields.io/badge/Python-0B1B2B?style=for-the-badge&logo=python&logoColor=00D9FF)
+![C](https://img.shields.io/badge/C-0B1B2B?style=for-the-badge&logo=c&logoColor=00D9FF)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0B1B2B?style=for-the-badge&logo=probot&logoColor=00D9FF)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0B1B2B?style=for-the-badge&logo=pytorch&logoColor=00D9FF)
+![Git](https://img.shields.io/badge/Git-0B1B2B?style=for-the-badge&logo=git&logoColor=00D9FF)
+![GitHub](https://img.shields.io/badge/GitHub-0B1B2B?style=for-the-badge&logo=github&logoColor=00D9FF)
 
 </div>
 
-## 🤝 Let's Connect
-
-- GitHub: [@10ASB](https://github.com/10ASB)
-- Explore my repositories to see what I'm learning and building.
-
----
+## `04 / GITHUB TELEMETRY`
 
 <div align="center">
 
-**Learning continuously. Building practically. Improving every commit.** ✨
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=10ASB&show_icons=true&hide_border=true&bg_color=07111F&title_color=00D9FF&icon_color=00D9FF&text_color=EAF7FF" alt="GitHub statistics for 10ASB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10ASB&layout=compact&hide_border=true&bg_color=07111F&title_color=00D9FF&text_color=EAF7FF" alt="Most used programming languages" />
+
+<img src="https://streak-stats.demolab.com?user=10ASB&hide_border=true&background=07111F&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=EAF7FF&dates=9CB3C9" alt="GitHub contribution streak" />
+
+</div>
+
+## `05 / COMMS CHANNEL`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-10ASB-101A2B?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/10ASB)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-101A2B?style=for-the-badge&logo=googlechrome&logoColor=00D9FF)](https://expressive-case-creator.lovable.app)
+
+**Always learning. Building practically. Improving every commit.** ✨
 
 </div>
