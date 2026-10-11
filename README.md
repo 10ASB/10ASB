@@ -1,7 +1,6 @@
 <div align="center">
 
-![Akshay S Bharadwaj — ASB-10 developer banner](https://capsule-render.vercel.app/api?type=waving%26height=200%26color=0:07111F,45:102B45,100:00D9FF%26fontColor=EAF7FF%26fontSize=34%26fontAlignY=38%26desc=AI%20%26%20ML%20ENGINEER%20IN%20THE%20MAKING%26descAlignY=60%26descSize=14%26text=AKSHAY%20S%20BHARADWAJ)
-
+![Akshay S Bharadwaj — ASB-10 developer banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:07111F,45:102B45,100:00D9FF&fontColor=EAF7FF&fontSize=34&fontAlignY=38&desc=AI%20%26%20ML%20ENGINEER%20IN%20THE%20MAKING&descAlignY=60&descSize=14&text=AKSHAY%20S%20BHARADWAJ)
 
 # 🌌 EARTH-10ASB
 ### AI & ML ENGINEERING • MULTIVERSE BUILDER • VARIANT IN PROGRESS
