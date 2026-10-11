@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="1280" height="720" alt="WwSA4" src="https://github.com/user-attachments/assets/486646b5-fc05-4d1a-ad09-50336e469443" />
+<img width="5120" height="2880" alt="IMG-20261011-WA0007 jpg" src="https://github.com/user-attachments/assets/4036581a-e364-4778-9600-36f538310272" />
 
 
 
 #  (* ￣︿￣)   
-                                              AKSHAY S BHARADWAJ
+    AKSHAY S BHARADWAJ
 ### AI & ML ENGINEERING • MULTIVERSE BUILDER • VARIANT IN PROGRESS
 
 **One developer. Infinite timelines.**
