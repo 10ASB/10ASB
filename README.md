@@ -2,7 +2,7 @@
 
 ![Akshay S Bharadwaj — Developer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AKSHAY%20S%20BHARADWAJ&fontSize=34&fontColor=EAF7FF&fontAlignY=38&desc=AI%20%26%20ML%20ENGINEER&descAlignY=60&descSize=14)
 
-# 🌌 VIBE CODER -10ASB
+#  (* ￣︿￣)10ASB
 ### AI & ML ENGINEERING • MULTIVERSE BUILDER • VARIANT IN PROGRESS
 
 **One developer. Infinite timelines.**
