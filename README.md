@@ -1,5 +1,6 @@
 <div align="center">
 
+<img width="736" height="414" alt="w2" src="https://github.com/user-attachments/assets/f0ef2a8f-cc65-47c3-bb2f-522f4d2162f8" />
 
 
 #  (* ￣︿￣)10ASB
