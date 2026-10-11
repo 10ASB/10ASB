@@ -1,9 +1,11 @@
 <div align="center">
 
-<img width="736" height="414" alt="w2" src="https://github.com/user-attachments/assets/f0ef2a8f-cc65-47c3-bb2f-522f4d2162f8" />
+<img width="1280" height="720" alt="WwSA4" src="https://github.com/user-attachments/assets/486646b5-fc05-4d1a-ad09-50336e469443" />
 
 
-#  (* ￣︿￣)10ASB
+
+#  (* ￣︿￣)   
+        ASB
 ### AI & ML ENGINEERING • MULTIVERSE BUILDER • VARIANT IN PROGRESS
 
 **One developer. Infinite timelines.**
