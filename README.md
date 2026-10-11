@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/multiverse-banner.png" alt="ASB-10 Multiverse" width="100%">
+<img src="multiverse-banner.png" alt="ASB-10 Multiverse" width="100%">
 
 # 🌌 EARTH-10ASB
 ### AI & ML ENGINEERING • MULTIVERSE BUILDER • VARIANT IN PROGRESS
