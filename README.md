@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:4B0082,55:7B2CBF,78:ED1D24,100:FFB703&height=230&section=header&text=AKSHAY%20S.%20BHARADWAJ&fontSize=33&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=ONE%20DEVELOPER.%20INFINITE%20UNIVERSES.&descSize=16&descAlignY=58" width="100%" alt="Comic-book multiverse profile banner"/>
 
-# 🌌 EARTH-10ASB // MULTIVERSE DOSSIER
+# 🌌 10ASB // MULTIVERSE DOSSIER
 
 ### 🦸 AI & ML ENGINEERING STUDENT · BUILDER · VARIANT IN PROGRESS
 
