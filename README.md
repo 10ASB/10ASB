@@ -22,10 +22,9 @@
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃  VARIANT ID   : ASB-10                       ┃
 ┃  IDENTITY     : Akshay S. Bharadwaj          ┃
-┃  HOME REALM   : Mysuru, India                ┃
 ┃  CLASS        : AI & ML Engineering Student  ┃
 ┃  POWER SOURCE : Curiosity + Code             ┃
-┃  ACTIVE QUEST : Build. Learn. Iterate.        ┃
+┃  ACTIVE QUEST : Build. Learn. Iterate.       ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
