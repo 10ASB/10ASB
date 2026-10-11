@@ -1,5 +1,5 @@
 <div align="center">
-
+html
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:07111F,45:102B45,100:00D9FF&fontColor=EAF7FF&fontSize=34&fontAlignY=38&desc=AI%20%26%20ML%20ENGINEER%20IN%20THE%20MAKING&descAlignY=60&descSize=14&text=AKSHAY%20S%20BHARADWAJ" width="100%" alt="Akshay S Bharadwaj — ASB-10 developer banner" />
 
 # 🌌 EARTH-10ASB
