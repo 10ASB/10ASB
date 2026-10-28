@@ -90,22 +90,78 @@ Beginner-friendly examples for practising core programming concepts in C.
 </tr>
 </table>
 
-## 🤖 AI/ML INTERNSHIP — BUILD LOG
+## 🤖 AI/ML INTERNSHIP — MISSION CONTROL
 
-Currently documenting hands-on AI/ML internship work, from data exploration and preprocessing to classical ML, ensemble methods, dimensionality reduction, and model deployment.
+<div align="center">
 
-| Focus | Project / Repository |
-|---|---|
-| Data preprocessing & EDA | [Day 3 — Preprocessing, EDA & Feature Engineering](https://github.com/10ASB/day03-data-preprocessing-eda-feature-engineering) |
-| Linear & logistic regression | [Day 4 — Regression](https://github.com/10ASB/day04-linear-logistic-regression) |
-| Model evaluation | [Day 5 — Evaluation & Mini-Project Kickoff](https://github.com/10ASB/day05-model-evaluation-mini-project-kickoff) |
-| KNN, Naive Bayes & SVM | [Day 6 — Models](https://github.com/10ASB/Day-6) |
-| Decision Trees & Random Forest | [Day 7 — Trees & Bagging](https://github.com/10ASB/Day-7) |
-| XGBoost tuning & Optuna | [Boosting & Hyperparameter Tuning](https://github.com/10ASB/boosting-hyperparameter-tuning) |
-| Clustering, PCA & t-SNE | [Unsupervised Learning & Dimensionality Reduction](https://github.com/10ASB/unsupervised-learning-dimensionality-reduction) |
-| End-to-end ML application | [Mini-Project 1 — Delivery Delay Prediction](https://github.com/10ASB/mini-project-1-build-polish-present) |
+### 🧪 FROM RAW DATA TO REAL-WORLD ML
 
-**Current project:** Delivery Delay Prediction — exploring a pipeline that includes EDA, preprocessing, model training, a FastAPI prediction endpoint, and a Streamlit interface. Repository contents are still being organized; results and deployment status will be documented after verification.
+**Explore. Engineer. Train. Evaluate. Deploy. Repeat.**
+
+<img src="https://img.shields.io/badge/PHASE_01-DATA_FOUNDATIONS-1572B6?style=for-the-badge" alt="Data foundations"/>
+<img src="https://img.shields.io/badge/PHASE_02-CLASSICAL_ML-7B2CBF?style=for-the-badge" alt="Classical ML"/>
+<img src="https://img.shields.io/badge/PHASE_03-ENSEMBLES_%26_UNSUPERVISED-ED1D24?style=for-the-badge" alt="Ensembles and unsupervised learning"/>
+<img src="https://img.shields.io/badge/PHASE_04-END_TO_END_APP-238636?style=for-the-badge" alt="End-to-end application"/>
+
+</div>
+
+A hands-on journey through the AI/ML workflow—from inspecting datasets and building preprocessing pipelines to comparing models and developing a prediction application. Each card opens the corresponding project.
+
+<details>
+<summary><b>🧹 Phase 01 — Data Foundations & Evaluation</b> · Days 3–5</summary>
+
+| Mission | What it covers | Repository |
+|---|---|---|
+| **Day 3 · Data Workshop** | EDA, feature engineering, encoding, scaling and leakage-aware preprocessing | [Open project ↗](https://github.com/10ASB/day03-data-preprocessing-eda-feature-engineering) |
+| **Day 4 · Regression Lab** | Linear and logistic regression fundamentals | [Open project ↗](https://github.com/10ASB/day04-linear-logistic-regression) |
+| **Day 5 · Evaluation HQ** | Model metrics, validation and Mini-Project 1 kickoff | [Open project ↗](https://github.com/10ASB/day05-model-evaluation-mini-project-kickoff) |
+
+</details>
+
+<details>
+<summary><b>🌳 Phase 02 — Classical ML Models</b> · Days 6–7</summary>
+
+| Mission | What it covers | Repository |
+|---|---|---|
+| **Day 6 · Model Arena** | KNN, Naive Bayes, SVM, decision boundaries and tuning | [Open project ↗](https://github.com/10ASB/Day-6) |
+| **Day 7 · Tree & Forest Lab** | Entropy, information gain, decision-tree depth and Random Forest feature importance | [Open project ↗](https://github.com/10ASB/Day-7) |
+
+</details>
+
+<details>
+<summary><b>🚀 Phase 03 — Boosting & Unsupervised Learning</b> · Days 8–9</summary>
+
+| Mission | What it covers | Repository |
+|---|---|---|
+| **Day 8 · Boosting Lab** | XGBoost hyperparameter search, Optuna trials and tuning-result analysis | [Open project ↗](https://github.com/10ASB/boosting-hyperparameter-tuning) |
+| **Day 9 · Pattern Discovery** | K-Means clustering, PCA, dimensionality reduction and t-SNE | [Open project ↗](https://github.com/10ASB/unsupervised-learning-dimensionality-reduction) |
+
+</details>
+
+<details open>
+<summary><b>🛠️ Phase 04 — Mini-Project 1: Delivery Delay Prediction</b> · Build & deploy</summary>
+
+<div align="center">
+
+**PROJECT STATUS · IN PROGRESS**
+
+<img src="https://img.shields.io/badge/EDA_%26_PREPROCESSING-UNDER_DEVELOPMENT-DAA520?style=flat-square" alt="EDA and preprocessing"/>
+<img src="https://img.shields.io/badge/MODEL_TRAINING-VERIFYING-7B2CBF?style=flat-square" alt="Model training"/>
+<img src="https://img.shields.io/badge/FASTAPI_%2B_STREAMLIT-INTEGRATION-1572B6?style=flat-square" alt="FastAPI and Streamlit"/>
+
+</div>
+
+The project is being organized around a complete ML workflow: exploratory analysis, preprocessing, model training and evaluation, a FastAPI prediction endpoint, and a Streamlit interface. Performance claims and run status will be added after verification.
+
+**[Explore Mini-Project 1 ↗](https://github.com/10ASB/mini-project-1-build-polish-present)**
+
+</details>
+
+<div align="center">
+
+**⚡ The mission continues — new experiments, cleaner pipelines, better models.**
+
+</div>
 
 ## 🧰 TOOLS & WORKFLOW
 
@@ -128,7 +184,7 @@ The arcade workflow below generates a Pac-Man-style animation from your own cont
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=10ASB&show_icons=true&hide_border=true&bg_color=10051F&title_color=FFB703&icon_color=ED1D24&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10ASB&layout=compact&hide_border=true&bg_color=10051F&title_color=FFB703&text_color=FFFFFF" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=10ASB&hide_border=true&background=10051F&ring=ED1D24&fire=FFB703&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C7B9E8" alt="GitHub contribution streak"/>
+
 
 </div>
 
