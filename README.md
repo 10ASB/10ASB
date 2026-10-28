@@ -90,6 +90,27 @@ Beginner-friendly examples for practising core programming concepts in C.
 </tr>
 </table>
 
+## 🤖 AI/ML INTERNSHIP — BUILD LOG
+
+Currently documenting hands-on AI/ML internship work, from data exploration and preprocessing to classical ML, ensemble methods, dimensionality reduction, and model deployment.
+
+| Focus | Project / Repository |
+|---|---|
+| Data preprocessing & EDA | [Day 3 — Preprocessing, EDA & Feature Engineering](https://github.com/10ASB/day03-data-preprocessing-eda-feature-engineering) |
+| Linear & logistic regression | [Day 4 — Regression](https://github.com/10ASB/day04-linear-logistic-regression) |
+| Model evaluation | [Day 5 — Evaluation & Mini-Project Kickoff](https://github.com/10ASB/day05-model-evaluation-mini-project-kickoff) |
+| KNN, Naive Bayes & SVM | [Day 6 — Models](https://github.com/10ASB/Day-6) |
+| Decision Trees & Random Forest | [Day 7 — Trees & Bagging](https://github.com/10ASB/Day-7) |
+| XGBoost tuning & Optuna | [Boosting & Hyperparameter Tuning](https://github.com/10ASB/boosting-hyperparameter-tuning) |
+| Clustering, PCA & t-SNE | [Unsupervised Learning & Dimensionality Reduction](https://github.com/10ASB/unsupervised-learning-dimensionality-reduction) |
+| End-to-end ML application | [Mini-Project 1 — Delivery Delay Prediction](https://github.com/10ASB/mini-project-1-build-polish-present) |
+
+**Current project:** Delivery Delay Prediction — exploring a pipeline that includes EDA, preprocessing, model training, a FastAPI prediction endpoint, and a Streamlit interface. Repository contents are still being organized; results and deployment status will be documented after verification.
+
+## 🧰 TOOLS & WORKFLOW
+
+Python · NumPy · Pandas · Matplotlib · Seaborn · scikit-learn · Jupyter · Git/GitHub · FastAPI · Streamlit · XGBoost · LightGBM · Optuna
+
 ## 📡 MULTIVERSE ACTIVITY FEED
 
 The arcade workflow below generates a Pac-Man-style animation from your own contribution calendar and publishes it to the `pacman-output` branch. After the first workflow run succeeds, this section will display the generated animation.
